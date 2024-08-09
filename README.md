@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Resham Kumar Thapa</h1>
-<h3 align="center">A passionate Fullstack developer from Surkhet, Nepal</h3>
+<h3 align="center">A passionate Fullstack developer from Kathmandu, Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=resham-01&label=Profile%20views&color=0e75b6&style=flat" alt="resham-01" /> </p>
 
